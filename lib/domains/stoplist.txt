@@ -594,7 +594,6 @@ mail.fmftsk.cn
 mail.fsa.br
 mail.hbut.edu.cn
 mail.hfu.edu.tw
-mail.imu.edu.cn
 mail.islasantarem.pt
 mail.ncyu.edu.tw
 mail.ntou.edu.tw
